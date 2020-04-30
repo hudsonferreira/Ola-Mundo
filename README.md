@@ -1,2 +1,4 @@
-# Ola Mundo
+# Olá, Mundo!
  Primeiro repositório versionado
+
+ Respositório criado para aprender a manuesear o Github
